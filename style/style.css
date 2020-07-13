@@ -97,6 +97,7 @@ p.large-paragraph {
 }
 
 header {
+    background-color: #777777;
     background: transparent;
     padding: 1rem 0;
     border-bottom: 1px solid rgb(133, 133, 133);
